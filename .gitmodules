@@ -1,0 +1,6 @@
+[submodule "cousevita"]
+	path = cousevita
+	url = https://github.com/esaijatin/cousevita.git
+[submodule "certificate_generator"]
+	path = certificate_generator
+	url = https://github.com/esaijatin/certificate_generator.git
